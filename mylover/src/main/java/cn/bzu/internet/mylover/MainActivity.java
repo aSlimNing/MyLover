@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity
 
     //TODO 使用的时候替网址和恋人的手机号即可
     private String path = "http://monsterlin.github.io/Lover_Time/";  //网站的链接
-    private String mobilePhone = "15762186585" ;  //恋人手机号
+    private String mobilePhone = "*********" ;  //恋人手机号
 
     private RapidFloatingActionHelper rfabHelper;
     private RapidFloatingActionLayout rfaLayout;
