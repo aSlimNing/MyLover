@@ -2,13 +2,7 @@
 
 ## 写在前面
    `此程序目的设计目的是为了让女朋友开心，无任何商业用途..`
-## 效果展示
-![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103252.png)
-
-![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103300.png)
-
-![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103334.png)
-
+   
 ## 使用说明
  `程序设计很简单，一个WebView，一个RepaidFloationgActionButton`
 
@@ -40,7 +34,13 @@
     compile 'com.nineoldandroids:library:2.4.0'
     compile files('libs/AMap_Location_v1.4.1_20150917.jar')
   ```
-  ## 鸣谢
+## 鸣谢
    @[angcyo](https://github.com/angcyo) 
+## 效果展示
+![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103252.png)
+
+![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103300.png)
+
+![](http://images.cnblogs.com/cnblogs_com/boy1025/689108/o_QQ%E6%88%AA%E5%9B%BE20151020103334.png)
 
 
