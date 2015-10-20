@@ -31,6 +31,5 @@ dependencies {
     compile 'com.github.wangjiegulu:AndroidInject:1.0.6'
     compile 'com.github.wangjiegulu:ShadowViewHelper:1.0.1'
     compile 'com.nineoldandroids:library:2.4.0'
-    compile files('libs/BaiduLBS_Android.jar')
     compile files('libs/AMap_Location_v1.4.1_20150917.jar')
 }
