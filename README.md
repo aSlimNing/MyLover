@@ -21,7 +21,7 @@
 
   4. 在清单文件中替换高德地图的key(由于SHAI和包名的限制所以开发者需要去高德开发者平台申请key)
 
-## 网站所使用的类库
+## 程序所使用的类库
   ```
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.android.support:design:22.2.0'
