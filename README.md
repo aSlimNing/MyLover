@@ -16,7 +16,7 @@
   3. 替换手机号:
   ```
   //恋人手机号
-  private String mobilePhone = "15762186585" ;
+  private String mobilePhone = "********" ;
   ```
 
   4. 在清单文件中替换高德地图的key(由于SHAI和包名的限制所以开发者需要去高德开发者平台申请key)
